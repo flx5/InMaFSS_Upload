@@ -1,0 +1,12 @@
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\bin\Debug\InMaFSS.exe.config
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\bin\Debug\InMaFSS.exe
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\bin\Debug\InMaFSS.pdb
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\obj\Debug\InMaFSS.Form1.resources
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\obj\Debug\InMaFSS.Properties.Resources.resources
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\obj\Debug\InMaFSS.csproj.GenerateResource.Cache
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\obj\Debug\InMaFSS.exe
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\obj\Debug\InMaFSS.pdb
+c:\users\felix\documents\visual studio 2012\Projects\InMaFSS\InMaFSS\obj\Debug\InMaFSS.Form2.resources
+C:\Users\Felix\Documents\Visual Studio 2012\Projects\InMaFSS\InMaFSS\obj\Debug\InMaFSS.csprojResolveAssemblyReference.cache
+C:\Users\Felix\Documents\Visual Studio 2012\Projects\InMaFSS\InMaFSS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Felix\Documents\Visual Studio 2012\Projects\InMaFSS\InMaFSS\bin\Debug\MSBuild.Community.Tasks.dll
